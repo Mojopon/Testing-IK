@@ -9,6 +9,7 @@
 /Assets/Fonts*
 /Resources/
 /Assets/Plugins/
+/Assets/UnityChan/
 
 # Photon files
 /Assets/Photon Unity Networking/
